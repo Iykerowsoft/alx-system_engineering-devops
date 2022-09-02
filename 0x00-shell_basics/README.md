@@ -1,1 +1,1 @@
-a script that creates the directories
+lists all the files and directories seperated by comma
